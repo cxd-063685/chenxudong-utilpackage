@@ -6,7 +6,7 @@
   <!-- 属性设置，要讲解归类依赖的好处 -->
 	<properties>
 		<java.version>1.8</java.version>
-		<springforamework.version>4.3.8.RELEASE</springforamework.version>
+		<springforamework.version>5.3.18</springforamework.version>
 	</properties>
 
 	<!-- 依赖 -->
